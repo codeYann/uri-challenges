@@ -1,4 +1,4 @@
-#Problemas Básicos no Uri Online Judge
+# Problemas Básicos no Uri Online Judge
 <table>
     <tr>
         <td><h4>Código<h4></td>
@@ -36,4 +36,26 @@
         <td>BEGINNER</td>
         <td>clang</td>
     </tr>
+    </tr>
+        <tr>
+        <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1006.c" _target="blank">1006</a></td>
+        <td>Average 2</td>
+        <td>BEGINNER</td>
+        <td>clang</td>
+    </tr>
+        </tr>
+        <tr>
+        <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1007.c" _target="blank">1007</a></td>
+        <td>Difference</td>
+        <td>BEGINNER</td>
+        <td>clang</td>
+    </tr>
+        </tr>
+        </tr>
+        <tr>
+        <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1008.c" _target="blank">1008</a></td>
+        <td>Salary</td>
+        <td>BEGINNER</td>
+        <td>clang</td>
+    </tr>    
 </table>
