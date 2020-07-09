@@ -61,7 +61,7 @@
             <td>clang</td>
     </tr>
     <tr>
-            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1010.c" _target="blank">1010</a></td>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1010.C" _target="blank">1010</a></td>
             <td>Simple Calculate</td>
             <td>BEGINNER</td>
             <td>clang</td>
