@@ -1,4 +1,4 @@
-# uri-clang
+# uri-challenges
 ## resolvendo problemas do uri online judge em c.
 
 
