@@ -9,6 +9,6 @@
     </tr>
     <tr>
         <td><a href= "https://github.com/codeYann/uri-clang/tree/master/src/beginner" target="_blank"> Beginner </a></td>
-        <td>10</td>
+        <td>11</td>
     </tr>
 </table>

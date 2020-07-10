@@ -65,5 +65,11 @@
             <td>Simple Calculate</td>
             <td>BEGINNER</td>
             <td>clang</td>
-    </tr>    
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1011.c" _target="blank">1011</a></td>
+            <td>Sphere</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>        
 </table>
