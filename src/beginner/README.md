@@ -71,5 +71,23 @@
             <td>Sphere</td>
             <td>BEGINNER</td>
             <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1041.c" _target="blank">1041</a></td>
+            <td>Coordinates of a Point</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1078.c" _target="blank">1078</a></td>
+            <td>Multiplication Tablet</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1173.c" _target="blank">1173</a></td>
+            <td>Array fill I</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
     </tr>        
 </table>
