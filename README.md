@@ -1,7 +1,15 @@
 # uri-clang
-## Resolvendo problemas.
+## Resolvendo problemas do Uri Online Judge.
 
+## Instalação
+ Para instalar o projeto:
+    ```
+        git clone https://github.com/codeYann/uri-challenges.git
+    ```
+## Contribuição
+ Pull requests são sempre bem-vindos. Para grandes mudanças ou correções por favor abra uma issue para discutir o que você gostaria de mudar. 
 
+## Problemas resolvidos
 <table>
     <tr>
         <td><h4>Categoria<h4></td>
@@ -12,3 +20,6 @@
         <td>14</td>
     </tr>
 </table>
+
+## License
+ [MIT](https://choosealicense.com/licenses/mit/)
