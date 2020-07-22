@@ -1,4 +1,5 @@
 # Problemas Básicos no Uri Online Judge
+
 <table>
     <tr>
         <td><h4>Código<h4></td>
@@ -75,6 +76,18 @@
     <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1041.c" _target="blank">1041</a></td>
             <td>Coordinates of a Point</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1059.c" _target="blank">1059</a></td>
+            <td>Even Numbers</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1060.c" _target="blank">1060</a></td>
+            <td>Positive Numbers</td>
             <td>BEGINNER</td>
             <td>clang</td>
     </tr>
