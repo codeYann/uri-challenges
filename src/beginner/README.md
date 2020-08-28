@@ -98,9 +98,21 @@
             <td>clang</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1080.c" _target="blank">1080</a></td>
+            <td>Highest and Position</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr> 
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1172.c" _target="blank">1172</a></td>
+            <td>Array Replacement 1</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+        <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1173.c" _target="blank">1173</a></td>
             <td>Array fill I</td>
             <td>BEGINNER</td>
             <td>clang</td>
-    </tr>        
+    </tr>         
 </table>
