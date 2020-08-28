@@ -115,10 +115,58 @@
             <td>BEGINNER</td>
             <td>clang</td>
     </tr>
-        <tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1173.c" _target="blank">1173</a></td>
             <td>Array fill I</td>
             <td>BEGINNER</td>
             <td>clang</td>
-    </tr>         
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1174.c" _target="blank">1174</a></td>
+            <td>Array Selection I</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1177.c" _target="blank">1177</a></td>
+            <td>Array fill II</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1178.c" _target="blank">1178</a></td>
+            <td>Array fill III</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1180.c" _target="blank">1180</a></td>
+            <td>Lowest Number and Position</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1181.c" _target="blank">1181</a></td>
+            <td>Line in Array</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1182.c" _target="blank">1182</a></td>
+            <td>Column in Array</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1183.c" _target="blank">1183</a></td>
+            <td>Above the Main Diagonal</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1184.c" _target="blank">1184</a></td>
+            <td>Below the Main Diagonal</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>                  
 </table>
