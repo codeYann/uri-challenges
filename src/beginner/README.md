@@ -104,6 +104,12 @@
             <td>clang</td>
     </tr> 
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1114.c" _target="blank">1114</a></td>
+            <td>Fixed Password</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr> 
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1172.c" _target="blank">1172</a></td>
             <td>Array Replacement 1</td>
             <td>BEGINNER</td>
