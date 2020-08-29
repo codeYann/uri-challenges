@@ -168,5 +168,23 @@
             <td>Below the Main Diagonal</td>
             <td>BEGINNER</td>
             <td>clang</td>
-    </tr>                  
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1185.c" _target="blank">1185</a></td>
+            <td>Above the Secundary Diagonal</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1186.c" _target="blank">1186</a></td>
+            <td>Below the Secundary Diagonal</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1187.c" _target="blank">1187</a></td>
+            <td>Top Area</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>               
 </table>
