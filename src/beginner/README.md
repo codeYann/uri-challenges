@@ -2,10 +2,16 @@
 
 <table>
     <tr>
-        <td><h4>Código<h4></td>
+        <td><h4>Código</h4></td>
         <td><h4>Nome do Problema</h4></td>
         <td><h4>Categoria</h4></td>
         <td><h4>Linguagem</h4></td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1000.c" _target="blank">1000</a></td>
+            <td>Hello World!</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
     </tr>
     <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1001.c" _target="blank">1001</a></td>
@@ -15,7 +21,7 @@
     </tr>
     <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1002.c" _target="blank">1002</a></td>
-            <td>Area of a circlec</td>
+            <td>Area of a circles</td>
             <td>BEGINNER</td>
             <td>clang</td>
     </tr>
@@ -74,6 +80,12 @@
             <td>clang</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1015.c" _target="blank">1015</a></td>
+            <td>Distance Between Two Points</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1041.c" _target="blank">1041</a></td>
             <td>Coordinates of a Point</td>
             <td>BEGINNER</td>
@@ -108,6 +120,12 @@
             <td>Fixed Password</td>
             <td>BEGINNER</td>
             <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1115.c" _target="blank">1115</a></td>
+            <td>Quadrant</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
     </tr> 
     <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1172.c" _target="blank">1172</a></td>
@@ -124,6 +142,12 @@
     <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1174.c" _target="blank">1174</a></td>
             <td>Array Selection I</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1175.c" _target="blank">1175</a></td>
+            <td>Array change I</td>
             <td>BEGINNER</td>
             <td>clang</td>
     </tr>
@@ -184,6 +208,12 @@
     <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1187.c" _target="blank">1187</a></td>
             <td>Top Area</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/3040.c" _target="blank">3040</a></td>
+            <td>The Christmas Tree</td>
             <td>BEGINNER</td>
             <td>clang</td>
     </tr>               
