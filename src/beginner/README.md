@@ -80,6 +80,12 @@
             <td>clang</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1012.c" _target="blank">1012</a></td>
+            <td>Area</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1015.c" _target="blank">1015</a></td>
             <td>Distance Between Two Points</td>
             <td>BEGINNER</td>
@@ -208,6 +214,24 @@
     <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1187.c" _target="blank">1187</a></td>
             <td>Top Area</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1188.c" _target="blank">1188</a></td>
+            <td>Inferior Area</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>   
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1189.c" _target="blank">1189</a></td>
+            <td>Left Area</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1190.c" _target="blank">1190</a></td>
+            <td>Right Area</td>
             <td>BEGINNER</td>
             <td>clang</td>
     </tr>
