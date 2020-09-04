@@ -110,6 +110,30 @@
             <td>clang</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1064.c" _target="blank">1064</a></td>
+            <td>Positives and Average</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1065.c" _target="blank">1065</a></td>
+            <td>Even Between five Numbers</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1067.c" _target="blank">1067</a></td>
+            <td>Odd Numbers</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1073.c" _target="blank">1073</a></td>
+            <td>Even Square</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1078.c" _target="blank">1078</a></td>
             <td>Multiplication Tablet</td>
             <td>BEGINNER</td>
