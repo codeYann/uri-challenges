@@ -98,6 +98,12 @@
             <td>clang</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1044.c" _target="blank">1044</a></td>
+            <td>Multiples</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1059.c" _target="blank">1059</a></td>
             <td>Even Numbers</td>
             <td>BEGINNER</td>
@@ -144,7 +150,13 @@
             <td>Highest and Position</td>
             <td>BEGINNER</td>
             <td>clang</td>
-    </tr> 
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1095.c" _target="blank">1095</a></td>
+            <td>Sequence IJ 1</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>  
     <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1114.c" _target="blank">1114</a></td>
             <td>Fixed Password</td>
@@ -154,6 +166,36 @@
     <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1115.c" _target="blank">1115</a></td>
             <td>Quadrant</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1116.c" _target="blank">1116</a></td>
+            <td>Dividing X by Y</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1133.c" _target="blank">1133</a></td>
+            <td>Rest of a Division</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1143.c" _target="blank">1143</a></td>
+            <td>Squared and Cubic</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1146.c" _target="blank">1146</a></td>
+            <td>Growing Sequences</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1153.c" _target="blank">1153</a></td>
+            <td>Simple Factorial</td>
             <td>BEGINNER</td>
             <td>clang</td>
     </tr> 
