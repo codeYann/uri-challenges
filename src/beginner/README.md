@@ -128,14 +128,44 @@
             <td>clang</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1066.c" _target="blank">1066</a></td>
+            <td>Even, Odd, Positive and...</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1067.c" _target="blank">1067</a></td>
             <td>Odd Numbers</td>
             <td>BEGINNER</td>
             <td>clang</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1070.c" _target="blank">1070</a></td>
+            <td>Six Odd Numbers</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1071.c" _target="blank">1071</a></td>
+            <td>Sum of Consecutive Odd...</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1073.c" _target="blank">1073</a></td>
             <td>Even Square</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1074.c" _target="blank">1074</a></td>
+            <td>Even or Odd</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1075.c" _target="blank">1075</a></td>
+            <td>Remaining 2</td>
             <td>BEGINNER</td>
             <td>clang</td>
     </tr>
@@ -154,6 +184,12 @@
     <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1095.c" _target="blank">1095</a></td>
             <td>Sequence IJ 1</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1101.c" _target="blank">1101</a></td>
+            <td>Sequence of Numbers and Sum</td>
             <td>BEGINNER</td>
             <td>clang</td>
     </tr>  
@@ -176,6 +212,12 @@
             <td>clang</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1117.c" _target="blank">1117</a></td>
+            <td>Score Validation</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1133.c" _target="blank">1133</a></td>
             <td>Rest of a Division</td>
             <td>BEGINNER</td>
@@ -190,6 +232,12 @@
     <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1146.c" _target="blank">1146</a></td>
             <td>Growing Sequences</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1151.c" _target="blank">1151</a></td>
+            <td>Easy Fibonacci</td>
             <td>BEGINNER</td>
             <td>clang</td>
     </tr>
@@ -220,6 +268,12 @@
     <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1175.c" _target="blank">1175</a></td>
             <td>Array change I</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1176.c" _target="blank">1176</a></td>
+            <td>Fibonacci Array</td>
             <td>BEGINNER</td>
             <td>clang</td>
     </tr>
