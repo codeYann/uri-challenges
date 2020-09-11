@@ -86,8 +86,20 @@
             <td>clang</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1014.c" _target="blank">1014</a></td>
+            <td>Consumption</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1015.c" _target="blank">1015</a></td>
             <td>Distance Between Two Points</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1038.c" _target="blank">1038</a></td>
+            <td>Snack</td>
             <td>BEGINNER</td>
             <td>clang</td>
     </tr>
@@ -98,8 +110,26 @@
             <td>clang</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1042.c" _target="blank">1042</a></td>
+            <td>Simple Sort</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1044.c" _target="blank">1044</a></td>
             <td>Multiples</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1050.c" _target="blank">1050</a></td>
+            <td>DDD</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1052.c" _target="blank">1052</a></td>
+            <td>Month</td>
             <td>BEGINNER</td>
             <td>clang</td>
     </tr>
@@ -360,5 +390,17 @@
             <td>The Christmas Tree</td>
             <td>BEGINNER</td>
             <td>clang</td>
-    </tr>               
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/3047.c" _target="blank">3047</a></td>
+            <td>A idade de Dona Mônica</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/3055.c" _target="blank">3055</a></td>
+            <td>Nota Esquecida</td>
+            <td>BEGINNER</td>
+            <td>clang</td>
+    </tr>                
 </table>
