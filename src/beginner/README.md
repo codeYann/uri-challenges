@@ -206,6 +206,12 @@
             <td>c</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1079.c" _target="blank">1079</a></td>
+            <td>Weighted Averages</td>
+            <td>BEGINNER</td>
+            <td>c</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1080.c" _target="blank">1080</a></td>
             <td>Highest and Position</td>
             <td>BEGINNER</td>
@@ -218,11 +224,23 @@
             <td>c</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1099.c" _target="blank">1099</a></td>
+            <td>Sum of Consecutive Odd...</td>
+            <td>BEGINNER</td>
+            <td>c</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1101.c" _target="blank">1101</a></td>
             <td>Sequence of Numbers and Sum</td>
             <td>BEGINNER</td>
             <td>c</td>
-    </tr>  
+    </tr> 
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1113.cpp" _target="blank">1113</a></td>
+            <td>Ascending and Descending</td>
+            <td>BEGINNER</td>
+            <td>c++</td>
+    </tr>   
     <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1114.c" _target="blank">1114</a></td>
             <td>Fixed Password</td>
@@ -248,10 +266,22 @@
             <td>c</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1132.cpp" _target="blank">1132</a></td>
+            <td>Multiples of 13</td>
+            <td>BEGINNER</td>
+            <td>c++</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1133.c" _target="blank">1133</a></td>
             <td>Rest of a Division</td>
             <td>BEGINNER</td>
             <td>c</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1142.cpp" _target="blank">1142</a></td>
+            <td>PUM</td>
+            <td>BEGINNER</td>
+            <td>c++</td>
     </tr>
     <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1143.c" _target="blank">1143</a></td>
@@ -266,6 +296,12 @@
             <td>c</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1149.c" _target="blank">1149</a></td>
+            <td>Summing Consecutive Integers</td>
+            <td>BEGINNER</td>
+            <td>c</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1151.c" _target="blank">1151</a></td>
             <td>Easy Fibonacci</td>
             <td>BEGINNER</td>
@@ -276,7 +312,31 @@
             <td>Simple Factorial</td>
             <td>BEGINNER</td>
             <td>c</td>
-    </tr> 
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1154.cpp" _target="blank">1154</a></td>
+            <td>Ages</td>
+            <td>BEGINNER</td>
+            <td>c</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1155.c" _target="blank">1155</a></td>
+            <td>S Sequence</td>
+            <td>BEGINNER</td>
+            <td>c</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1156.c" _target="blank">1156</a></td>
+            <td>S Sequence II</td>
+            <td>BEGINNER</td>
+            <td>c</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1157.c" _target="blank">1157</a></td>
+            <td>Divisors I</td>
+            <td>BEGINNER</td>
+            <td>c</td>
+    </tr>
     <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1172.c" _target="blank">1172</a></td>
             <td>Array Replacement 1</td>
