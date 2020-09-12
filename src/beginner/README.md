@@ -446,6 +446,36 @@
             <td>c</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1564.cpp" _target="blank">1564</a></td>
+            <td>Brazil World Cup Area</td>
+            <td>BEGINNER</td>
+            <td>c++</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1589.cpp" _target="blank">1589</a></td>
+            <td>Bob Conduit</td>
+            <td>BEGINNER</td>
+            <td>c++</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1759.cpp" _target="blank">1759</a></td>
+            <td>Ho Ho Ho</td>
+            <td>BEGINNER</td>
+            <td>c++</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1837.cpp" _target="blank">1837</a></td>
+            <td>Preface</td>
+            <td>BEGINNER</td>
+            <td>c++</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1864.cpp" _target="blank">1864</a></td>
+            <td>Our Days Are Never Coming Back</td>
+            <td>BEGINNER</td>
+            <td>c++</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/3040.c" _target="blank">3040</a></td>
             <td>The Christmas Tree</td>
             <td>BEGINNER</td>
