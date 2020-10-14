@@ -254,6 +254,18 @@
             <td>C</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1096.cpp" _target="blank">1096</a></td>
+            <td>Sequence IJ 2</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1097.cpp" _target="blank">1097</a></td>
+            <td>Sequence IJ 3</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1099.c" _target="blank">1099</a></td>
             <td>Sum of Consecutive Odd...</td>
             <td>BEGINNER</td>
@@ -366,6 +378,18 @@
             <td>Divisors I</td>
             <td>BEGINNER</td>
             <td>C</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1158.c" _target="blank">1158</a></td>
+            <td>Soma de Ímpares Consecutivos III</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1159.c" _target="blank">1159</a></td>
+            <td>Soma de Pares Consecutivos</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
     </tr>
     <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1164.cpp" _target="blank">1164</a></td>
@@ -512,8 +536,56 @@
             <td>C++</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1865.cpp" _target="blank">1865</a></td>
+            <td>Mjölnir</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1962.cpp" _target="blank">1962</a></td>
+            <td>Há Muito, Muito Tempo Atrás</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/2140.cpp" _target="blank">2140</a></td>
+            <td>Duas Notas</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/2483.cpp" _target="blank">2483</a></td>
+            <td>Feliz Nataaal!</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/2544.cpp" _target="blank">2544</a></td>
+            <td>Kage Bunshin no Jutsu</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/2582.cpp" _target="blank">2582</a></td>
+            <td>System of a Download</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/2862.cpp" _target="blank">2862</a></td>
+            <td>Inseto!</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/2867.cpp" _target="blank">2867</a></td>
             <td>Digits</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/3039.cpp" _target="blank">3039</a></td>
+            <td>Brinquedos do Papai Noel</td>
             <td>BEGINNER</td>
             <td>C++</td>
     </tr>
@@ -534,5 +606,11 @@
             <td>Nota Esquecida</td>
             <td>BEGINNER</td>
             <td>C</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/3091.cpp" _target="blank">3091</a></td>
+            <td>Resto 1.0</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
     </tr>                
 </table>
