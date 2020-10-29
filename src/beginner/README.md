@@ -530,6 +530,18 @@
             <td>C++</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1847.cpp" _target="blank">1847</a></td>
+            <td>Bem-vindos e Bem-vindas ao Inverno!</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1858.cpp" _target="blank">1858</a></td>
+            <td>A Resposta de Theon</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1864.cpp" _target="blank">1864</a></td>
             <td>Our Days Are Never Coming Back</td>
             <td>BEGINNER</td>
@@ -548,8 +560,20 @@
             <td>C++</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/1983.cpp" _target="blank">1983</a></td>
+            <td>O escolhido</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/2140.cpp" _target="blank">2140</a></td>
             <td>Duas Notas</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/2164.cpp" _target="blank">2164</a></td>
+            <td>Fibonacci Rápido</td>
             <td>BEGINNER</td>
             <td>C++</td>
     </tr>
