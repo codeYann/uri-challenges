@@ -17,7 +17,7 @@
     </tr>
     <tr>
         <td><a href= "https://github.com/codeYann/uri-clang/tree/master/src/beginner" target="_blank"> Beginner</a></td>
-        <td>101</td>
+        <td>105</td>
     </tr>
 </table>
 
