@@ -16,8 +16,12 @@
         <td><h4>Número de Soluçóes</h4></td>
     </tr>
     <tr>
-        <td><a href= "https://github.com/codeYann/uri-clang/tree/master/src/beginner" target="_blank"> Beginner</a></td>
+        <td><a href="https://github.com/codeYann/uri-clang/tree/master/src/beginner" target="_blank">Beginner</a></td>
         <td>108</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/codeYann/uri-clang/tree/master/src/data-structures">Data Structures</a></td>
+        <td>1</td>
     </tr>
 </table>
 
