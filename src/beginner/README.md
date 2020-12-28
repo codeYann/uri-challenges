@@ -578,6 +578,12 @@
             <td>C++</td>
     </tr>
     <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/2165.cpp" _target="blank">2165</a></td>
+            <td>Tuitandoo</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
+    </tr>
+    <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/2483.cpp" _target="blank">2483</a></td>
             <td>Feliz Nataaal!</td>
             <td>BEGINNER</td>
@@ -592,6 +598,12 @@
     <tr>
             <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/2582.cpp" _target="blank">2582</a></td>
             <td>System of a Download</td>
+            <td>BEGINNER</td>
+            <td>C++</td>
+    </tr>
+    <tr>
+            <td><a href="https://github.com/codeYann/uri-clang/blob/master/src/beginner/2850.cpp" _target="blank">2850</a></td>
+            <td>Papagaio Poliglota</td>
             <td>BEGINNER</td>
             <td>C++</td>
     </tr>
