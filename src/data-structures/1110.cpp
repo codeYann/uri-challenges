@@ -9,7 +9,7 @@ int main(int argc, char* argv[]) {
     
     while(1) {
         queue<int> cards;
-        int* descartedCarts, *tt;
+        int* discartedCarts, *tt;
         
         cin >> t;
         if(t == 0) break;
@@ -21,13 +21,13 @@ int main(int argc, char* argv[]) {
             cout << "Discarded cards: " << endl;
             cout << "Remaining card: " << cards.front() << endl;
         } else {    
-            descartedCarts = new int[cards.size() - 1];
+            discartedCarts = new int[cards.size() - 1];
             while(1) {
                 
                 if(cards.size() == 1) 
                     break;
 
-                descartedCarts[count] = cards.front();
+                discartedCarts[count] = cards.front();
                 cards.pop();
                 cards.push(cards.front());
                 cards.pop();
@@ -36,13 +36,13 @@ int main(int argc, char* argv[]) {
             cout << "Discarded cards: ";
             
             for(int i = 0; i < t - 2; i++) 
-                printf("%d, ", descartedCarts[i]);
+                printf("%d, ", discartedCarts[i]);
             
-            cout << descartedCarts[count-1];
+            cout << discartedCarts[count-1];
             cout << "\n" 
                  << "Remaining card: " << cards.front() << endl;
             
-            delete descartedCarts;
+            delete discartedCarts;
             count = 0;
         }
     }
