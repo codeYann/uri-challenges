@@ -21,7 +21,7 @@
     </tr>
     <tr>
         <td><a href="https://github.com/codeYann/uri-clang/tree/master/src/data-structures">Data Structures</a></td>
-        <td>1</td>
+        <td>2</td>
     </tr>
 </table>
 
