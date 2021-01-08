@@ -59,4 +59,15 @@
             <td>DATA STRUCTURES</td>
             <td>C++</td>
         </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/codeYann/uri-clang/blob/master/src/data-structures/3139.cpp"
+                    _target="blank">3139</a>
+            </td>
+            <td>
+                <a href="https://www.urionlinejudge.com.br/judge/pt/problems/view/3139">Buscando Novos Seguidores</a>
+            </td>
+            <td>DATA STRUCTURES</td>
+            <td>C++</td>
+        </tr>
 </table>
